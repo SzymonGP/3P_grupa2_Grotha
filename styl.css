@@ -1,6 +1,10 @@
 h1{
     font-family:Arial, Helvetica, sans-serif;
+    color:#7702fd;
 }
-body{
-    background: #5c04ffd2;
+
+p{
+    color:rgb(0, 255, 200);
+    background: #0267fd;
+
 }
